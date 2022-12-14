@@ -1,1 +1,1 @@
-![banner image](https://cdn.mckayla.cloud/-/a22be59398f146b3908df98bee763299/Community-Banner.webp)
+![banner image](https://cdn.mckayla.cloud/-/e86654d216e94070a43281ff2546c79a/Community-Banner.webp)
