@@ -1,4 +1,4 @@
-![banner image](https://cdn.mckayla.cloud/-/8fd7241552f042d2be9a5cc21f61922c/BANNER-Dark.webp)
+![a banner image of Lucy surrounded by many other smaller, more colorful Lucys on a dark background](https://cdn.mckayla.cloud/-/8fd7241552f042d2be9a5cc21f61922c/BANNER-Dark.webp)
 
 The gleam-community organisation was set up to provide **high-quality**,
 **authoritative** packages for the wider Gleam community to use. These packages
@@ -7,13 +7,7 @@ organisation, but would still benefit from having a single high-quality
 implementation.
 
 While we may have different maintainers for each project, you can always reach
-out to the organisaion's core admins:
-
-| GitHub                                                   | Discord        |
-| -------------------------------------------------------- | -------------- |
-| [@aslilac](https://github.com/aslilac)                   | @lilac#2164    |
-| [@brettkolodny](https://github.com/brettkolodny)         | @Bread#0837    |
-| [@hayleigh-dot-dev](https://github.com/hayleigh-dot-dev) | @hayleigh#9777 |
+out to the [organisation's admins](https://github.com/gleam-community/META/blob/main/ADMINS.md).
 
 ## What kind of packages are maintained by gleam-community?
 
@@ -32,7 +26,7 @@ a few guidelines for what constitutes a good fit for the organisation:
   organisation meet them?
 
 - Is it possible the package could be maintained by the core Gleam organisation
-  in the future? If so, would they benefit from 
+  in the future? If so, would they benefit from
 
 From time to time we may choose to maintain packages that don't fit these guidelines.
 For example, we may choose to maintain a package that is only useful for a single
